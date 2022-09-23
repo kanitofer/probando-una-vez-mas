@@ -1,3 +1,3 @@
 # probando-una-vez-mas
-https://github.com/kanitofer/tendidoelectrico-.git
+https://github.com/kanitofer/tendidoelectrico2-.git
 pruebalo
